@@ -1,5 +1,10 @@
 # Espresso
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![Coverage](https://img.shields.io/badge/coverage-90%25-green.svg)]()
+
+
 Espresso is a Java library for executing PowerShell scripts asynchronously on local machines. It provides features such as concurrent execution, output capture, and terminal integration, making it ideal for automation and systems administration related tasks.
 
 ## Features
